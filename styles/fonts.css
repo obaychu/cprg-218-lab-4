@@ -30,11 +30,13 @@ h3 {
   font-size: 1.25rem;
   font-weight: 200;
   text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
 }
 
 h4, h5, h6 {
   font-size: 1.25rem;
   font-weight: 600;
+  font-family: "Open Sans", sans-serif;
 }
 
 p {
