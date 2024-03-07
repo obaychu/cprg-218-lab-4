@@ -8,7 +8,7 @@
 
 /* Section Header Content */
 .header-container {
-  background-color: #DDDDDD;
+  background-color: #dddddd;
   text-align: center;
   padding: 6rem 1rem;
 }
@@ -16,6 +16,6 @@
 /* Option header */
 .option-container {
   text-align: center;
-  background-color: #EEEEEE;
+  background-color: #eeeeee;
   padding: 3rem 1rem;
 }

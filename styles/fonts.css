@@ -2,7 +2,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 1rem;
   font-weight: 500;
-  line-height: 1.1;
+  line-height: 1.5;
 }
 
 h1,
@@ -12,7 +12,7 @@ h4,
 h5,
 h6,
 p {
-  line-height: 1.1;
+  line-height: 1.5;
   margin: 1rem 0;
 }
 
@@ -30,7 +30,6 @@ h3 {
   font-size: 1.25rem;
   font-weight: 200;
   text-transform: uppercase;
-  font-family: "Roboto", sans-serif;
 }
 
 h4, h5, h6 {
@@ -44,7 +43,6 @@ p {
   font-weight: 500;
   line-height: 1.5;
 }
-
 
 button {
   font-size: 1rem;
